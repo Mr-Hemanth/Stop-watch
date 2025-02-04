@@ -22,6 +22,7 @@ const Stopwatch = () => {
     setTime(0);
   };
 
+  
   const saveTimelapse = () => {
     const duration = time; // only storing the duration in milliseconds
 
