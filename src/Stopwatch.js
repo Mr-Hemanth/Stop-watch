@@ -20,7 +20,6 @@ const Stopwatch = () => {
   const resetStopwatch = () => {
     setIsRunning(false);
     setTime(0);
-    
   };
 
   const saveTimelapse = () => {
